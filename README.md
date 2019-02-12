@@ -1,3 +1,3 @@
 # hello-world
 Hello world project
-Keep going Marcos! Let live better.
+Keep going Marcos! Lets live better.
